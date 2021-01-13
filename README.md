@@ -1,4 +1,4 @@
-![logo][.img/center1.png]
+! [logo][.img/logo.png]
 
 # PCP - MD Simulations
 
