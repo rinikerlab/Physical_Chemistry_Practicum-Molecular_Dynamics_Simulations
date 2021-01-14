@@ -17,7 +17,7 @@ Here, fundamentals and analysis of MD simulations are taught, like:
 
  Additional content of the teaching unit can be found in the literature folder:
  * Introduction to MD
- * Introduction and guided exercise: Insights into peptide alpha-Helix formation
+ * Introduction and guided exercise: Insights into the Dynamics of Peptide Alpha Helix Formation
  * How to visualize a molecule
  
  ### preperation material
