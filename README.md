@@ -1,5 +1,5 @@
 
-![logo](.img/logo.png)
+![](.img/logo.png)
 
 
 #  Insights into the Dynamics of Peptide Alpha Helix Formation
@@ -21,9 +21,9 @@ Here, fundamentals and analysis of MD simulations are taught, like:
  * How to visualize a molecule
  
  ### preperation material
-  * ![Manual to the practicum](./literature/PC_praktikum_Insights_in_alpha_Helix_Formation_manual.pdf)
-  * ![Introduction to MD-Analysis](./literature/Introduction_to_MDAnalysis.pdf)
-  * ![How to Install VMD](./literature/InstallVMD_unix.pdf)
+  * [Manual to the practicum](./literature/PC_praktikum_Insights_in_alpha_Helix_Formation_manual.pdf)
+  * [Introduction to MD-Analysis](./literature/Introduction_to_MDAnalysis.pdf)
+  * [How to Install VMD](./literature/InstallVMD_unix.pdf)
 
 ## Useage
 
@@ -31,7 +31,7 @@ Here, fundamentals and analysis of MD simulations are taught, like:
 
 
 ## Authors
-![Carmen Esposito](https://github.com/cespos) (Postdoc),
-![Benjamin Ries](https://github.com/SchroederB) (PhD student), 
+[Carmen Esposito](https://github.com/cespos) (Postdoc),
+[Benjamin Ries](https://github.com/SchroederB) (PhD student), 
 Marina Oliveria (PhD student), 
 Sadra Kashef Ol Gheta (Postdoc)
