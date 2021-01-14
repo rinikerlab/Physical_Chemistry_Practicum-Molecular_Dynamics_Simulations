@@ -1,5 +1,5 @@
 
-! [logo](.img/logo.png)
+![logo](.img/logo.png)
 
 
 #  Insights into the Dynamics of Peptide Alpha Helix Formation
