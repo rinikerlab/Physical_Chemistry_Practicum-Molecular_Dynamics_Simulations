@@ -26,7 +26,7 @@ Here fundamentals of the analysis of MD simulations will be taught, like:
 
 
 ## Authors
-Carmen Esposito
-Benjamin Ries
-Marina Oliveria
-Sadra Kashef Ol Gheta
+![Carmen Esposito](https://github.com/cespos) (Postdoc),
+![Benjamin Ries](https://github.com/SchroederB) (PhD student), 
+Marina Oliveria (PhD student), 
+Sadra Kashef Ol Gheta (Postdoc)
