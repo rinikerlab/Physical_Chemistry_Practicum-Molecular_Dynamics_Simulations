@@ -19,6 +19,11 @@ Here fundamentals of the analysis of MD simulations will be taught, like:
  * Introduction to MD
  * Introduction to the biologic Question: Insights into peptide alpha-Helix formation
  * How to visualize a molecule
+ 
+ ### preperation material
+  * ![Manual to the practicum](./literature/PC_praktikum_Insights_in_alpha_Helix_Formation_manual.pdf)
+  * ![Introduction to MD-Analysis](./literature/Introduction_to_MDAnalysis.pdf)
+  * ![How to Install VMD](./literature/InstallVMD_unix.pdf)
 
 ## Useage
 
