@@ -1,6 +1,7 @@
-![logo][.img/center1.png]
 
-# PCP - MD Simulations
+![logo](.img/center1.png)
+
+# Physical Chemistry Practicum - Molecular Dynamics Simulations - Insights into Peptide Alpha Helix formations.
 
 This teaching project is used for the Physical Chemistry Practicum with the topic Molecular Dynamics (MD) Simulations for pharmacy and biology students.
 Here fundamentals of the analysis of MD simulations will be taught, like:
