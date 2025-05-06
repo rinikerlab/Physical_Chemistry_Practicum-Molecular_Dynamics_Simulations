@@ -16,7 +16,7 @@ def visualize_timeseries(time:Iterable, data:Iterable, title:str, y_label:str, x
   return figure
 
 def visualize_dihedrals(data:pd.DataFrame, 
-                        y_labels:str, x_labels:str, title:str,
+                        y_labels:str, x_labels:str, title:str="DIHEDRALS",
                         ncols=4, nrows=3, figsize=[20,20]):
   
   #multiplot:
@@ -34,7 +34,7 @@ def visualize_dihedrals(data:pd.DataFrame,
           ax.set_ylabel(y_labels)
       if(ind >= (nrows-1)*ncols):
           ax.set_xlabel(x_labels)
-  fig.suptitle("DIHEDRALS", y=0.95)
+  fig.suptitle(title, y=0.95)
   return fig
 
 
